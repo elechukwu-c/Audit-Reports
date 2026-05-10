@@ -1,12 +1,32 @@
-# Audit Reports
+# Audit Report
 
-This repository contains security audit reports, vulnerability analyses,
-and writeups produced during my smart contract auditing journey.
+Public archive of my smart contract security research, competitive audits, learning notes, and protocol analysis.
 
-## Scope
-- Practice audits (open-source & intentionally vulnerable contracts)
-- Contest findings (where disclosure is permitted)
-- Sanitized private audit reports
+## Structure
+
+### Competitive Audits
+- Code4rena
+- Sherlock
+- Other public contests
+
+### Private Audit Research
+Sanitized notes and learning materials from private reviews.
+
+### Research
+Security experiments, attack surfaces, invariant studies, and protocol exploration.
+
+### Learning
+Personal notes from Solidity, EVM, and smart contract security training.
+
+---
+
+⚠️ This repository excludes:
+- undisclosed vulnerabilities
+- active exploit paths
+- sensitive PoCs
+- confidential client material
+
+Some materials may be published after mitigation or disclosure windows complete.
 
 ## Disclaimer
 These reports are for educational and professional demonstration purposes.
